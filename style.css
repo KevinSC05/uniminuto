@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.jumbotron {
+    background-image: url('https://rickandmortyapi.com/api/character/avatar/1.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #343a40;
+}
